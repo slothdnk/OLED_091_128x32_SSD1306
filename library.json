@@ -1,0 +1,27 @@
+{
+    "name": "OLED_091_128x32_SSD1306",
+    "description": "Driver lib for the Heltec ESP8288 0.91\" 128x32 OLED",
+    "keywords": "OLED_091_128x32_SSD1306, begin, clear, off, on, print",
+    "authors": [
+        {
+            "name": "Aaron.Lee",
+            "email": "support@heltec.cn",
+            "url": "https://heltec.cn"
+        },
+        {
+            "name": "Jakob Sloth Jespen",
+            "email": "sloth@slothbiegel.dk",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+         "url": "https://github.com/slothdnk/OLED_091_128x32_SSD1306"
+    },
+    "version": "1.5",
+    "homepage": "https://github.com/slothdnk/OLED_091_128x32_SSD1306",
+    "frameworks": "Arduino",
+    "examples": [
+        "examples/*/*.ino"
+    ]
+}
